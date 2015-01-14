@@ -1,0 +1,19 @@
+{
+  "name": "Ev",
+  "version": "1.0.0",
+  "description": "An EventEmitter-like event emitter for browser and server applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@hector:ev"
+  },
+  "author": "Matthias Thoemmes <git@gmx.org>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-mocha": "^2.0.0"
+  }
+}
